@@ -1,5 +1,7 @@
 # Quicksort-Analysis
 
+Report: Assignment5Solution.pdf
+
 Quick Sort implentation: quick_sort.py
 Randomized quick sort: randomized_quick_sort.py
 
@@ -66,3 +68,8 @@ Sorted Distribution: Deterministic Quicksort consistently outperforms randomized
 **_Deterministic Quicksort_** shows better practical performance across most cases and is more stable for sorted and reverse-sorted inputs.
 
 These results align with theoretical expectations. while randomization helps reduce worst-case likelihood, deterministic Quicksort offers better overall runtime efficiency in practical scenarios.
+
+_How to run the Code_
+
+1. Install pandas using command: pip3 install pandas (Make sure you are using python3)
+2. Run the analysis using command: pyton empirical_analysis.py
